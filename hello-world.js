@@ -1,2 +1,3 @@
 var foo = "Hello world!";
-console.log(foo);
+var bar = "Welcome to Tealium Training!";
+console.log(foo + bar);
